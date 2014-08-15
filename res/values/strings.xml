@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">FlashRecovery</string>
+    <string name="win_lose">我不是为了输赢，我就是认真</string>
+    <string name="xs">Xs</string>
+    <string name="xs_weibo">点击访问我的微博</string>
+    <string name="flash_recovery">刷写</string>
+    <string name="reboot_recovery">重启Recovery模式</string>
+    <string name="flash_chinese_recovery">刷入中文Recovery</string>
+    <string name="flash_chinese_recovery_summary">v6.0.5.0 20140815</string>
+    <string name="flash_english_recovery">刷入英文Recovery</string>
+    <string name="flash_english_recovery_summary">v6.0.5.0 20140815</string>
+    <string name="flash_other_recovery">刷入自选Recovery</string>
+    <string name="flash_other_recovery_summary">请将Recovery改名为recovery.img放置在内存卡的FlashRecovery/Flash目录中</string>
+
+</resources>

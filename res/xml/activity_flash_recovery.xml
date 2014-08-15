@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/flash_recovery" >
+        <PreferenceScreen
+            android:key="flash_chinese_recovery"
+            android:summary="@string/flash_chinese_recovery_summary"
+            android:title="@string/flash_chinese_recovery" >
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:key="flash_english_recovery"
+            android:summary="@string/flash_english_recovery_summary"
+            android:title="@string/flash_english_recovery" >
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceScreen
+        android:key="reboot_recovery"
+        android:title="@string/reboot_recovery" >
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:summary="@string/xs_weibo"
+        android:title="@string/xs" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="http://weibo.com/acexs" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:enabled="false"
+        android:title="@string/win_lose" >
+    </PreferenceScreen>
+
+</PreferenceScreen>

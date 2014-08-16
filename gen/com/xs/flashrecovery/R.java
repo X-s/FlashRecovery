@@ -19,8 +19,6 @@ public final class R {
         public static final int flash_chinese_recovery_summary=0x7f040007;
         public static final int flash_english_recovery=0x7f040008;
         public static final int flash_english_recovery_summary=0x7f040009;
-        public static final int flash_other_recovery=0x7f04000a;
-        public static final int flash_other_recovery_summary=0x7f04000b;
         public static final int flash_recovery=0x7f040004;
         public static final int reboot_recovery=0x7f040005;
         public static final int win_lose=0x7f040001;

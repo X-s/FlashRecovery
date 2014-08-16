@@ -7,10 +7,8 @@
     <string name="flash_recovery">刷写</string>
     <string name="reboot_recovery">重启Recovery模式</string>
     <string name="flash_chinese_recovery">刷入中文Recovery</string>
-    <string name="flash_chinese_recovery_summary">v6.0.5.0 20140815</string>
+    <string name="flash_chinese_recovery_summary">v6.0.5.0 20140816</string>
     <string name="flash_english_recovery">刷入英文Recovery</string>
-    <string name="flash_english_recovery_summary">v6.0.5.0 20140815</string>
-    <string name="flash_other_recovery">刷入自选Recovery</string>
-    <string name="flash_other_recovery_summary">请将Recovery改名为recovery.img放置在内存卡的FlashRecovery/Flash目录中</string>
+    <string name="flash_english_recovery_summary">v6.0.5.0 20140816</string>
 
 </resources>

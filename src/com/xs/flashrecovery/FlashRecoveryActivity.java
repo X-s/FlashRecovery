@@ -61,12 +61,12 @@ public class FlashRecoveryActivity extends PreferenceActivity {
 		}
 		
 		if (preference == mFlashChineseRecovery) {
-							RootCmd.RunRootCmd("dd if=/sdcard/Android/data/com.xs.flashrecovery/files/Coolpad_F1_6050_20140815_Chinese.img of=/dev/recovery");
+							RootCmd.RunRootCmd("dd if=/sdcard/Android/data/com.xs.flashrecovery/files/Coolpad_F1_6050_20140816_Chinese.img of=/dev/recovery");
 							Toast.makeText(this, "刷入中文Recovery成功", 2000).show();
 			}
 
 		if (preference == mFlashEnglishRecovery) {
-							RootCmd.RunRootCmd("dd if=/sdcard/Android/data/com.xs.flashrecovery/files/Coolpad_F1_6050_20140815_English.img of=/dev/recovery");
+							RootCmd.RunRootCmd("dd if=/sdcard/Android/data/com.xs.flashrecovery/files/Coolpad_F1_6050_20140816_English.img of=/dev/recovery");
 							Toast.makeText(this, "刷入英文Recovery成功", 2000).show();
 			}
 
